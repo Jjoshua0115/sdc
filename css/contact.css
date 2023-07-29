@@ -1,0 +1,52 @@
+#call ul li{
+    width: 30vw;
+    text-align: center;
+}
+#call{
+    margin: 0 auto;
+    width: 96vw;
+}#call span{
+    font-size: 1.5vw;
+}#call p{
+    font-size: 1vw;
+}#call button{
+    border : none;
+    color : white;
+    background-color: rgb(103, 103, 226);
+    padding: .5vw 1vw;
+}#call button:hover{
+    cursor: pointer;
+}#call h4{
+    font-size: 3vw;
+}
+
+
+
+
+
+/*----------Privacy Style---------------- */
+
+
+.privacy{
+
+    width: 96vw;
+    height: 90vh;
+    margin: 0 auto;
+    padding: 1vw;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    overflow: scroll;
+}.privacy span{
+    font-size: 2vw;
+    font-weight: bolder;
+    
+}
+.privacy h6{
+    font-weight: lighter;
+}
+.privacy p{
+    font-size: 1vw;
+}
+.privacy i {
+    text-decoration: underline;
+}
